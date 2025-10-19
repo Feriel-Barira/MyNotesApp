@@ -1,16 +1,34 @@
-# flutter_app
+# Flutter - MyNotesApp
 
-A new Flutter project.
+## Description
+Ceci est ma première application Flutter.  
+Elle permet de créer des notes et de les supprimer.
 
-## Getting Started
+## Fonctionnalités
+- Ajouter une note via un TextField
+- Supprimer une note avec un bouton
+- Les notes sont affichées dans une liste déroulante
 
-This project is a starting point for a Flutter application.
+## Installation
+1. Installer Flutter : [Flutter official docs](https://docs.flutter.dev/get-started/install)
+2. Cloner ce repo :
+```bash
+git clone https://github.com/Feriel-Barira/MyNotesApp
+```
+3. Aller dans le dossier du projet :
+```bash
+cd lib/practical3
+```
+4. Installer les dépendances :
+```bash
+flutter pub get
+```
+5. Lancer l'application :
+```bash
+flutter run
+```
+<img width="447" height="758" alt="image" src="https://github.com/user-attachments/assets/cbe5b1de-1985-4123-a043-1512577a3bfc" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
